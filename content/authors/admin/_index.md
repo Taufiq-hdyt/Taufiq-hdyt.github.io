@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Tugas
+title: Muhammad Taufiq Hidayat
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Taufiq
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Halo, saya Muhammad Taufiq Hidayat, mahasiswa Rekayasa Perangkat Lunak yang antusias dengan teknologi, coding, dan eksplorasi digital. Blog ini berisi tips belajar programming, produktivitas ala mahasiswa, serta refleksi pengalaman hidup di dunia perkuliahan.
