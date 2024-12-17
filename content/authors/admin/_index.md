@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/cxcy.ber/profilecard/?igsh=MTZ1b3NwbWttNnE5eA==
+    url: https://www.instagram.com/cxcy.ber/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
