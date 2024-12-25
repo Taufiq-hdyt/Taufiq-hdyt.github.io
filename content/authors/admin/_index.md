@@ -34,11 +34,11 @@ profiles:
     url: "mailto:tahufiq182@gmail.com"
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/MTH_007?t=Eg24f-8koZQc1PdufgWltg&s=09
   - icon: brands/instagram
     url: https://www.instagram.com/cxcy.ber/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Taufiq-hdyt
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Suka berkegiatan yang berhubungan dengan alam
+  - Web development
+  - Figma
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Mahasiswa Rekayasa Perangkat Lunak
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Lulusan
+    institution: MAN 1 Boyolali
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
