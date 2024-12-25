@@ -40,9 +40,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/Taufiq-hdyt
   - icon: brands/facebook
-    url: https://www.facebook.com/share/14kB6Kug5Lz/?mibextid=qi2Omg
+    url: https://www.facebook.com/share/14kB6Kug5Lz
   - icon: brands/whatsApp
-    url: https://wa.me/qr/B7AADRIUNXJRG1
+    url: https://wa.me/082133694590
 
 interests:
   - Kegiatan di alam
