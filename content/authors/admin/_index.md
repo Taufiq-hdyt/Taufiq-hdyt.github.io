@@ -47,7 +47,7 @@ profiles:
 interests:
   - Kegiatan di alam
   - Web development
-  - Figma
+  - Figmaa
 
 education:
   - area: Mahasiswa Rekayasa Perangkat Lunak
