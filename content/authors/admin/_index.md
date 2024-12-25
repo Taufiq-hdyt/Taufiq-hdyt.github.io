@@ -39,15 +39,17 @@ profiles:
     url: https://www.instagram.com/cxcy.ber/
   - icon: brands/github
     url: https://github.com/Taufiq-hdyt
-  - icon: brands/facebook
-    url: https://www.facebook.com/share/14kB6Kug5Lz
-  - icon: brands/whatsApp
-    url: https://wa.me/082133694590
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Kegiatan di alam
   - Web development
-  - Figmaa
+  - Figma
 
 education:
   - area: Mahasiswa Rekayasa Perangkat Lunak
