@@ -39,15 +39,13 @@ profiles:
     url: https://www.instagram.com/cxcy.ber/
   - icon: brands/github
     url: https://github.com/Taufiq-hdyt
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: brands/facebook
+    url: https://www.facebook.com/share/14kB6Kug5Lz/?mibextid=qi2Omg
+  - icon: brands/whatsApp
+    url: https://wa.me/qr/B7AADRIUNXJRG1
 
 interests:
-  - Suka berkegiatan yang berhubungan dengan alam
+  - Kegiatan di alam
   - Web development
   - Figma
 
@@ -72,8 +70,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area:Lulusan
+    institution: SMPN 3 Boyolali
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
