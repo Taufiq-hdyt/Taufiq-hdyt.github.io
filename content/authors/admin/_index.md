@@ -41,10 +41,8 @@ profiles:
     url: https://github.com/Taufiq-hdyt
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: brands/facebook
+    url: https://www.facebook.com/share/1DVNQcByUf/?mibextid=qi2Omg
 
 interests:
   - Kegiatan di alam
