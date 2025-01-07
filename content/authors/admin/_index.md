@@ -82,28 +82,29 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Pelayan Rumah Makan
+    company_name: Soto Seger Boyolali
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: 2023-05-01
+    date_end: 2023-07-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Melayani pelanggan dengan cepat dan ramah, memastikan kepuasan pelanggan tetap tinggi.
+      - Mampu menangani rata-rata 50+ pelanggan per shift dengan efisiensi dan ketelitian.
+      - Berkoordinasi dengan tim dapur untuk memastikan pesanan sesuai dan tepat waktu.
+  - position: Pelayan Kedai
+    company_name: Susu Segar Bejho
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07-01
+    date_end: 2023-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Melayani pelanggan dengan ramah dan memastikan pesanan susu segar disajikan sesuai standar.
+      - Membantu mendirikan dan membongkar stand kedai untuk jualan
+      - Menjelaskan berbagai pilihan menu dan membantu pelanggan memilih produk yang sesuai.
+      - Membantu menjaga kebersihan meja dan stok bahan baku harian.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
