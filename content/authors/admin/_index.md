@@ -53,28 +53,40 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Belajar tentang:
+      - Algoritma dan struktur data, menggunakan bahasa pemograman C++ & C
+      - Desain UI/UX, menggunakan tool figma
+      - Perancangan Basis Data, menggunakan MySQL woorkbench
   - area: Lulusan
     institution: MAN 1 Boyolali
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Belajar tentang:
+      - Fiqih
+      - Bahasa Arab
+      - Al-qur'an dan Hadist
+      - Aqidah Akhlak
+      - Matematika
+      - Bahasa Indonesia
+      - Bahasa Jawa
+      - Ilmu Pengetahuan Alam (IPA)
+      - Ilmu Pengetahuan Sosial (IPS)
+      - Seni Budaya
   - area: Lulusan
     institution: SMPN 3 Boyolali
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Belajar tentang:
+      - Bahasa Indonesia
+      - Bahasa Jawa
+      - Matematika
+      - Ilmu Pengetahuan Alam (IPA)
+      - Ilmu Pengetahuan Sosial (IPS)
+      - Seni Budaya
+      - Pendidikan Pancasila dan Kewarganegaraan (PPKn)
+      - Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)
 work:
   - position: Pelayan Rumah Makan
     company_name: Soto Seger Boyolali
@@ -83,7 +95,7 @@ work:
     date_start: 2023-05-01
     date_end: 2023-07-01
     summary: |2-
-      Responsibilities include:
+      Tanggung Jawab:
       - Melayani pelanggan dengan cepat dan ramah, memastikan kepuasan pelanggan tetap tinggi.
       - Mampu menangani rata-rata 50+ pelanggan per shift dengan efisiensi dan ketelitian.
       - Berkoordinasi dengan tim dapur untuk memastikan pesanan sesuai dan tepat waktu.
@@ -94,7 +106,7 @@ work:
     date_start: 2023-07-01
     date_end: 2023-09-01
     summary: |
-      Responsibilities include:
+      Tanggung Jawab:
       - Melayani pelanggan dengan ramah dan memastikan pesanan susu segar disajikan sesuai standar.
       - Membantu mendirikan dan membongkar stand kedai untuk jualan
       - Menjelaskan berbagai pilihan menu dan membantu pelanggan memilih produk yang sesuai.
@@ -107,11 +119,11 @@ skills:
     items:
       - name: Python
         description: ""
-        percent: 80
+        percent: 50
         icon: code-bracket
       - name: Data Science
         description: ""
-        percent: 100
+        percent: 40
         icon: chart-bar
       - name: SQL
         description: ""
@@ -144,7 +156,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Sertifikat:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: "2023-11-25"
