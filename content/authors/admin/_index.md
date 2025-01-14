@@ -3,7 +3,7 @@
 title: Muhammad Taufiq Hidayat
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: Taufiq
 
 # Full name (for SEO)
 first_name: Taufiq
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Presiden PointBlankk
+role: Mahasiswa Rekayasa Perangkat Lunak
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
