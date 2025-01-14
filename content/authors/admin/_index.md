@@ -48,20 +48,22 @@ interests:
   - Figma
 
 education:
-  - area:Rekayasa Perangkat Lunak
+  - area: Mahasiswa Rekayasa Perangkat Lunak
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: "Read Thesis"
+      url: "https://example.com"
   - area: Lulusan
     institution: MAN 1 Boyolali
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
+      GPA: 3.8/4.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -71,6 +73,8 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
+      GPA: 3.4/4.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
