@@ -39,8 +39,6 @@ profiles:
     url: https://www.instagram.com/cxcy.ber/
   - icon: brands/github
     url: https://github.com/Taufiq-hdyt
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: brands/facebook
     url: https://www.facebook.com/share/1DVNQcByUf/?mibextid=qi2Omg
 
