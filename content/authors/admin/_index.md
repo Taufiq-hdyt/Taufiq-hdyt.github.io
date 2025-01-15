@@ -110,7 +110,7 @@ work:
       - Melayani pelanggan dengan ramah dan memastikan pesanan susu segar disajikan sesuai standar.
       - Membantu mendirikan dan membongkar stand kedai untuk jualan
       - Menjelaskan berbagai pilihan menu dan membantu pelanggan memilih produk yang sesuai.
-      - Membantu menjaga kebersihan meja dan stok bahan baku hariann.
+      - Membantu menjaga kebersihan meja dan stok bahan baku harian.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
