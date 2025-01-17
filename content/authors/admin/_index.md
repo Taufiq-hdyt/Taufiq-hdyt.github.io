@@ -7,7 +7,7 @@ name_pronunciation: Taufiq
 
 # Full name (for SEO)
 first_name: Taufiq
-last_name: Hidayattt
+last_name: Hidayatt
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mahasiswa Rekayasa Perangkat Lunak
+role: Mahasiswa Rekayasa Perangkat Lunakk
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
