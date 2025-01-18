@@ -1,6 +1,6 @@
 ---
 title: Rmarkdown
-date: 2023-10-26
+date: 2025-01-18
 external_link: https://taufiq-hdyt.github.io/dataviz_ggplot/
 ---
 
