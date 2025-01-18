@@ -4,9 +4,6 @@ summary: Musyawarah Besar (Mubes) adalah pertemuan penting yang diadakan secara 
 date: 2024-07-27
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 ---
