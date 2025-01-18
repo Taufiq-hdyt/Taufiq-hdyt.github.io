@@ -2,12 +2,13 @@
 title: Learn JavaScript
 summary: Easily learn JavaScript in 10 minutes!
 date: 2023-10-24
+external_link: https://classroom.google.com/c/NjMwNDk5NDI1NDM1/m/NjMwNTE5MTc2MjI1/details
 type: docs
 math: false
 tags:
   - JavaScript
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: "Embed rich media such as videos and LaTeX math"
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
@@ -111,7 +112,6 @@ $$
 ## Code
 
 Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
 
     ```python
     import pandas as pd
