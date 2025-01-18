@@ -170,7 +170,7 @@ awards:
     url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=drive_link
     date: "2024-03-09"
     awarder: Participationn
-    icon: Auth0
+    icon: NestJS
     summary: |
       Learned:
       - Peserta acara Future Entrepreneur Summit Semarang 2024
