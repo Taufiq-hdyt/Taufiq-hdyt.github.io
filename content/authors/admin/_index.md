@@ -158,7 +158,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Certificate
-    url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=drive_link
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: "2023-11-25"
     awarder: Participation
     icon: coursera
