@@ -1,7 +1,7 @@
 ---
 title: Malam Keakraban Mahasiswa (MAKRAB) MAPALASTA
-summary: Malam Keakraban (Makrab) bagi MAPALASTA adalah kegiatan yang bertujuan untuk mempererat hubungan antaranggota melalui berbagai aktivitas bersama. 
-date: 2024-07-27
+summary: Malam Keakraban (Makrab) bagi MAPALASTA adalah kegiatan yang bertujuan untuk mempererat hubungan antaranggota melalui berbagai aktivitas bersama.
+date: 2024-12-22
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
