@@ -1,7 +1,7 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: MUBES MAPALASTA
+summary: Musyawarah Besar (Mubes) adalah pertemuan penting yang diadakan secara berkala untuk membahas dan mengambil keputusan strategis terkait arah dan kebijakan organisasi. Tujuan utama Mubes meliputi evaluasi kinerja pengurus sebelumnya, pemilihan pengurus baru, serta pembahasan dan penetapan program kerja untuk periode berikutnya.
+date: 2024-07-27
 authors:
   - admin
 tags:
