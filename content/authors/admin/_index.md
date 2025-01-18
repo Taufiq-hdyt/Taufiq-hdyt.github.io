@@ -159,11 +159,13 @@ languages:
 awards:
   - title: Certificate
     url: https://drive.google.com/file/d/1fAg2wvZ--AuF4eiDKb_08VEaQdSNUXWy/view?usp=drive_link
-    date: "2023-11-25"
+    date: "2024-10-25"
     awarder: Participation
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      - Cloud Computing dengan Microsoft Azure: Pengenalan tentang layanan cloud Microsoft Azure, termasuk implementasi sederhana.
+      - Keamanan Digital: Memahami pentingnya keamanan data dan privasi dalam dunia digital.
+      - Konsep dasar cybersecurity, termasuk ancaman digital seperti malware, phishing, dan ransomware.
   - title: Certificate
     url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=drive_link
     date: "2024-03-09"
