@@ -167,13 +167,15 @@ awards:
   - title: Certificate
     url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=drive_link
     date: "2023-07-01"
-    awarder: Participation
-    icon: edx
+    awarder: Participationn
+    icon: book
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - Peserta acara Future Entrepreneur Summit Semarang 2024
+      - Peserta Training Public Speaking
+      - Pelatihan Entrepreneurship
+      - Participant in the FEST GOWORLD ASIA FUTUREPRENEUR SELECTION PROGRAM 2024
+      - Peserta Webinar Self-Development Program
 ---
 
 ## About Me
