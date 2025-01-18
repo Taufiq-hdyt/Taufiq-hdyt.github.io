@@ -1,6 +1,6 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: Algoritma dan Pemrograman
+summary: Buku Pembelajaran Semester 1
 date: 2023-10-24
 external_link: https://classroom.google.com/c/NjMwNDk5NDI1NDM1/m/NjMwNTE5MTc2MjI1/details
 type: docs
