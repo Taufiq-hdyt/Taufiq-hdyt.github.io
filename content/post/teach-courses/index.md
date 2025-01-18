@@ -1,6 +1,6 @@
 ---
 title: Rapat Kerja (RAKER) IMM Al-Khawarizmi
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
+summary: Rapat Kerja (Raker) dalam Ikatan Mahasiswa Muhammadiyah (IMM) adalah forum resmi yang diadakan untuk menyusun dan menetapkan program kerja organisasi selama satu periode kepengurusan.
 date: 2024-11-16
 math: true
 authors:
