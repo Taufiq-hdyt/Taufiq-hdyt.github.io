@@ -1,7 +1,7 @@
 ---
 title: Mubes MAPALA
 summary: Ini adalah kegiatan Musyawarah Besar (MAPALA) 
-date: 2023-10-27
+date: 2024-07-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
