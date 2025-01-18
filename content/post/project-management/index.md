@@ -21,5 +21,3 @@ Welcome 👋
 2. Kegiatan MUBES ini dilakukan di Hutan Pinus,Nglimut,Kendal
 3. Kegiatan ini dihadiri oleh anggota & ALB MAPALASTA
 4. Dalam kegiatan MUBES ini saya berperan sebagai Ketua Pelaksana
-
-[//]: # "[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)"

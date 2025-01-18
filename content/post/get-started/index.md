@@ -22,5 +22,3 @@ Welcome 👋
 1. Kegiatan ini bertempat di Gunung Ungaran
 2. Kegiatan Outbound: Melaksanakan permainan dan aktivitas di luar ruangan yang bertujuan untuk membangun kerjasama tim, kepercayaan diri, dan keterampilan problem solving antaranggota.
 3. Pentas Seni dan Hiburan: Menampilkan bakat seni anggota melalui pertunjukan musik, tari, atau drama, yang dapat meningkatkan kreativitas dan kebersamaan.
-
-[//]: # "[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)"

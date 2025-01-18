@@ -17,5 +17,3 @@ Welcome 👋
 1. Kegiatan ini bertempat di barak TNI AD Bantir,Kendal
 2. Kegiatan ini dihadiri oleh seluruh Mahasiswa serta Dosen ITESA Muhammadiyah Semarang
 3. Dalam kegiatan ini banyak sekali kegiatan yang dilakukan bersama antara mahasiswa dan dosen,kegiatan ini bertujuan untuk mempererat hubungan antara mahasiswa dengan dosen
-
-[//]: # "[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)"

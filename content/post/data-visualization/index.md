@@ -18,5 +18,3 @@ Welcome 👋
 2. Pengenalan Ideologi Muhammadiyah: Memberikan pemahaman mendalam tentang prinsip dan nilai-nilai yang dianut oleh Muhammadiyah.
 3. Pelatihan Kepemimpinan dan Organisasi: Membekali peserta dengan keterampilan dasar dalam memimpin dan mengelola organisasi.
 4. Membekali kader dengan pengetahuan dan keterampilan yang relevan untuk berkontribusi dalam organisasi dan masyarakat.
-
-[//]: # "[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)"
