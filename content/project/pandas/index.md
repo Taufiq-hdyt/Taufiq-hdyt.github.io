@@ -1,13 +1,9 @@
 ---
-title: Pandas
+title: Aplikasi RawBeans
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+external_link: https://drive.google.com/file/d/1CcrXggBpi-7OD8IxrGd7YNVZ2HgKhQsn/view?usp=drive_link
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Berikut adalah presentasi dari tampilan aplikasi RawBeans
 
 <!--more-->
