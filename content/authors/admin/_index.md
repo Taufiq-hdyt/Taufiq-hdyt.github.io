@@ -168,7 +168,7 @@ awards:
     url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=drive_link
     date: "2023-07-01"
     awarder: Participationn
-    icon: book
+    icon: Auth0
     summary: |
       Learned:
       - Peserta acara Future Entrepreneur Summit Semarang 2024
