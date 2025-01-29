@@ -135,7 +135,7 @@ skills:
       - name: Gamee
         description: ""
         percent: 100
-        icon: gamepad
+        icon: joystick
       - name: Photography
         description: ""
         percent: 50
