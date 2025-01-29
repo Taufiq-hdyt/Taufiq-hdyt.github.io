@@ -132,10 +132,10 @@ skills:
         description: ""
         percent: 70
         icon: person-simple-walk
-      - name: Gamee
+      - name: Game
         description: ""
         percent: 100
-        icon: joystick
+        icon: game
       - name: Photography
         description: ""
         percent: 50
