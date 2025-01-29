@@ -135,7 +135,7 @@ skills:
       - name: cats
         description: ""
         percent: 100
-        icon: bi-controller
+        icon: cat
       - name: Photography
         description: ""
         percent: 50
