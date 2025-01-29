@@ -135,7 +135,7 @@ skills:
       - name: cats
         description: ""
         percent: 100
-        icon: fas fa-gamepad
+        icon: bi-controller
       - name: Photography
         description: ""
         percent: 50
