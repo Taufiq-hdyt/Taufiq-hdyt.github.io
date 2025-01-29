@@ -22,11 +22,6 @@ highlight_name: true
 # Role/position/tagline
 role: Mahasiswa Rekayasa Perangkat Lunakk
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -137,10 +132,10 @@ skills:
         description: ""
         percent: 70
         icon: person-simple-walk
-      - name: Cats
+      - name: Game
         description: ""
         percent: 100
-        icon: cat
+        icon: gamepad
       - name: Photography
         description: ""
         percent: 50
