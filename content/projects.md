@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Apabila ada project yang membutuhkan akses yang ingin anda lihat,anda dapat menghubungi saya :)
+      text: Apabila ada project yang membutuhkan akses yang ingin anda lihat,anda dapat menghubungi saya:)
       filters:
         folders:
           - project
