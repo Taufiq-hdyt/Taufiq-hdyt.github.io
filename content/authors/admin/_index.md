@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mahasiswa Rekayasa Perangkat Lunakk
+role: Mahasiswa Rekayasa Perangkat Lunak
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
