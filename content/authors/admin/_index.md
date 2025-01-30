@@ -7,7 +7,7 @@ name_pronunciation: Taufiq
 
 # Full name (for SEO)
 first_name: Taufiq
-last_name: Hidayat
+last_name: Hidayatt
 
 # Status emoji
 status:
