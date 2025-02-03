@@ -4,7 +4,7 @@ env:
   WC_HUGO_VERSION: "0.143.0"
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
+  # Trigger the workflow every time you push to the main branch
   push:
     branches: ["main"]
   # Allows you to run this workflow manually from the Actions tab on GitHub.
@@ -39,7 +39,7 @@ jobs:
       - uses: actions/cache@v3
         with:
           path: /tmp/hugo_cache_runner/
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('/go.mod') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
       - name: Setup Pages
@@ -69,6 +69,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
-     with:
-           artifact_name: ${{ steps.artifact.outputs.artifact_name }}
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ steps.artifact.outputs.artifact_name }}
