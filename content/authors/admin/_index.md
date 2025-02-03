@@ -153,7 +153,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Certificate
-    url: https://drive.google.com/file/d/1fAg2wvZ--AuF4eiDKb_08VEaQdSNUXWy/view?usp=drive_link
+    url: https://drive.google.com/file/d/1fAg2wvZ--AuF4eiDKb_08VEaQdSNUXWy/view?usp=sharing
     date: "2024-10-25"
     awarder: Participation
     icon: coursera
@@ -162,7 +162,7 @@ awards:
       - Keamanan Digital: Memahami pentingnya keamanan data dan privasi dalam dunia digital.
       - Konsep dasar cybersecurity, termasuk ancaman digital seperti malware, phishing, dan ransomware.
   - title: Certificate
-    url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=drive_link
+    url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=sharing
     date: "2024-03-09"
     awarder: Participationn
     icon: NestJS
