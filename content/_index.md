@@ -35,7 +35,7 @@ sections:
       title: "📚 Perkenalan Singkat"
       subtitle: ""
       text: |-
-        Saya adalah seorang mahasiswa jurusan Rekayasa Perangkat Lunak yang berkuliah di ITESA Muhammadiyah Semarang,Saya ingin mempelajari ilmu terkait bidang komputer dan teknologi saya juga ingin mengembangkan skill saya dalam organisasi yang ada di kampus,harapan saya bisa menjadi pribadi yang berguna bagi masyarakats
+        Saya adalah seorang mahasiswa jurusan Rekayasa Perangkat Lunak yang berkuliah di ITESA Muhammadiyah Semarang,Saya ingin mempelajari ilmu terkait bidang komputer dan teknologi saya juga ingin mengembangkan skill saya dalam organisasi yang ada di kampus,harapan saya bisa menjadi pribadi yang berguna bagi masyarakat
     design:
       columns: "1"
   - block: collection
