@@ -159,7 +159,7 @@ awards:
     icon: coursera
     summary: |
       - Cloud Computing dengan Microsoft Azure: Pengenalan tentang layanan cloud Microsoft Azure, termasuk implementasi sederhana.
-      - Keamanan Digital: Memahami pentingnya keamanann data dan privasi dalam dunia digital.
+      - Keamanan Digital: Memahami pentingnya keamanan data dan privasi dalam dunia digital.
       - Konsep dasar cybersecurity, termasuk ancaman digital seperti malware, phishing, dan ransomware.
   - title: Certificate
     url: https://drive.google.com/file/d/1sy6-u1R51vBjnIlnOnoPC0XSgHJlPY4k/view?usp=sharing
